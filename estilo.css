@@ -1,0 +1,71 @@
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.container {
+    width: 600px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+.box {
+    float: left;
+    border: 2px solid black;
+    margin: 10px;
+    box-sizing: border-box;
+}
+
+.box img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+
+#box1 {
+    width: 150px;
+    height: 100px;
+}
+
+#box2 {
+    width: 200px;
+    height: 150px;
+}
+
+#box3 {
+    width: 100px;
+    height: 200px;
+}
+
+#box4 {
+    width: 180px;
+    height: 120px;
+}
+
+#box5 {
+    width: 120px;
+    height: 180px;
+}
+
+#box6 {
+    width: 140px;
+    height: 140px;
+}
+
+#box7 {
+    width: 160px;
+    height: 90px;
+}
+
+#box8 {
+    width: 110px;
+    height: 110px;
+}
+
+#box9 {
+    width: 130px;
+    height: 130px;
+}
